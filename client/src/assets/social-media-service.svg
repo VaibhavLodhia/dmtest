@@ -1,0 +1,124 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f8fafc"/>
+  
+  <!-- Phone Frame -->
+  <rect x="50" y="30" width="140" height="240" rx="20" fill="#1f2937"/>
+  <rect x="60" y="50" width="120" height="200" rx="12" fill="#ffffff"/>
+  
+  <!-- Status Bar -->
+  <rect x="60" y="50" width="120" height="15" rx="12" fill="#f9fafb"/>
+  <text x="75" y="60" fill="#6b7280" font-family="Arial, sans-serif" font-size="6">9:41 AM</text>
+  <text x="155" y="60" fill="#6b7280" font-family="Arial, sans-serif" font-size="6">100%</text>
+  
+  <!-- App Header -->
+  <rect x="60" y="65" width="120" height="20" fill="#1877f2"/>
+  <text x="120" y="77" fill="white" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Social Media</text>
+  
+  <!-- Post 1 -->
+  <rect x="65" y="90" width="110" height="45" rx="6" fill="#f8fafc" stroke="#e5e7eb"/>
+  <circle cx="75" cy="100" r="6" fill="#10b981"/>
+  <text x="85" y="102" fill="#1f2937" font-family="Arial, sans-serif" font-size="6" font-weight="bold">Your Brand</text>
+  <text x="85" y="110" fill="#6b7280" font-family="Arial, sans-serif" font-size="5">2 hours ago</text>
+  <text x="68" y="120" fill="#374151" font-family="Arial, sans-serif" font-size="6">🚀 New product launch! Check it out...</text>
+  <text x="68" y="130" fill="#3b82f6" font-family="Arial, sans-serif" font-size="5">👍 234 likes  💬 45 comments</text>
+  
+  <!-- Post 2 -->
+  <rect x="65" y="140" width="110" height="40" rx="6" fill="#f8fafc" stroke="#e5e7eb"/>
+  <circle cx="75" cy="150" r="6" fill="#f59e0b"/>
+  <text x="85" y="152" fill="#1f2937" font-family="Arial, sans-serif" font-size="6" font-weight="bold">Your Business</text>
+  <text x="68" y="165" fill="#374151" font-family="Arial, sans-serif" font-size="6">✨ Special offer this weekend only!</text>
+  <text x="68" y="175" fill="#3b82f6" font-family="Arial, sans-serif" font-size="5">❤️ 189 likes  📤 23 shares</text>
+  
+  <!-- Post 3 -->
+  <rect x="65" y="185" width="110" height="40" rx="6" fill="#f8fafc" stroke="#e5e7eb"/>
+  <circle cx="75" cy="195" r="6" fill="#8b5cf6"/>
+  <text x="85" y="197" fill="#1f2937" font-family="Arial, sans-serif" font-size="6" font-weight="bold">Your Company</text>
+  <text x="68" y="210" fill="#374151" font-family="Arial, sans-serif" font-size="6">🎯 Behind the scenes content...</text>
+  <text x="68" y="220" fill="#3b82f6" font-family="Arial, sans-serif" font-size="5">🔥 312 likes  💬 67 comments</text>
+  
+  <!-- Engagement Analytics -->
+  <g transform="translate(220, 50)">
+    <rect x="0" y="0" width="130" height="80" rx="8" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+    <text x="65" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Engagement</text>
+    
+    <!-- Engagement bars -->
+    <rect x="10" y="25" width="30" height="8" fill="#1877f2"/>
+    <text x="45" y="31" fill="#1f2937" font-family="Arial, sans-serif" font-size="6">Facebook: 2.3k</text>
+    
+    <rect x="10" y="38" width="25" height="8" fill="#e4405f"/>
+    <text x="40" y="44" fill="#1f2937" font-family="Arial, sans-serif" font-size="6">Instagram: 1.8k</text>
+    
+    <rect x="10" y="51" width="35" height="8" fill="#1da1f2"/>
+    <text x="50" y="57" fill="#1f2937" font-family="Arial, sans-serif" font-size="6">Twitter: 950</text>
+    
+    <rect x="10" y="64" width="20" height="8" fill="#0077b5"/>
+    <text x="35" y="70" fill="#1f2937" font-family="Arial, sans-serif" font-size="6">LinkedIn: 670</text>
+  </g>
+  
+  <!-- Content Calendar -->
+  <g transform="translate(220, 140)">
+    <rect x="0" y="0" width="130" height="100" rx="8" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+    <text x="65" y="15" fill="#1f2937" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Content Calendar</text>
+    
+    <!-- Calendar grid -->
+    <rect x="10" y="25" width="15" height="15" fill="#dcfce7"/>
+    <text x="17" y="35" fill="#166534" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">1</text>
+    
+    <rect x="30" y="25" width="15" height="15" fill="#fef3c7"/>
+    <text x="37" y="35" fill="#92400e" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">2</text>
+    
+    <rect x="50" y="25" width="15" height="15" fill="#dbeafe"/>
+    <text x="57" y="35" fill="#1e40af" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">3</text>
+    
+    <rect x="70" y="25" width="15" height="15" fill="#f3e8ff"/>
+    <text x="77" y="35" fill="#6b21a8" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">4</text>
+    
+    <rect x="90" y="25" width="15" height="15" fill="#fce7f3"/>
+    <text x="97" y="35" fill="#be185d" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">5</text>
+    
+    <rect x="110" y="25" width="15" height="15" fill="#e0f2fe"/>
+    <text x="117" y="35" fill="#0369a1" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">6</text>
+    
+    <text x="10" y="55" fill="#4b5563" font-family="Arial, sans-serif" font-size="6">Scheduled Posts:</text>
+    <text x="10" y="68" fill="#10b981" font-family="Arial, sans-serif" font-size="6">✓ Product showcase</text>
+    <text x="10" y="78" fill="#f59e0b" font-family="Arial, sans-serif" font-size="6">✓ Customer testimonial</text>
+    <text x="10" y="88" fill="#3b82f6" font-family="Arial, sans-serif" font-size="6">✓ Behind the scenes</text>
+  </g>
+  
+  <!-- AI Assistant -->
+  <g transform="translate(220, 250)">
+    <rect x="0" y="0" width="130" height="40" rx="6" fill="#f0f9ff" stroke="#0ea5e9"/>
+    <circle cx="15" cy="20" r="8" fill="#0ea5e9"/>
+    <text x="15" y="24" fill="white" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">AI</text>
+    <text x="30" y="15" fill="#0369a1" font-family="Arial, sans-serif" font-size="8" font-weight="bold">AI Content Assistant</text>
+    <text x="30" y="28" fill="#0284c7" font-family="Arial, sans-serif" font-size="6">Auto-generating posts...</text>
+  </g>
+  
+  <!-- Platform Icons -->
+  <g transform="translate(60, 260)">
+    <!-- Facebook -->
+    <circle cx="10" cy="10" r="8" fill="#1877f2"/>
+    <text x="10" y="14" fill="white" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">f</text>
+    
+    <!-- Instagram -->
+    <circle cx="30" cy="10" r="8" fill="#e4405f"/>
+    <text x="30" y="14" fill="white" font-family="Arial, sans-serif" font-size="6" text-anchor="middle">IG</text>
+    
+    <!-- Twitter -->
+    <circle cx="50" cy="10" r="8" fill="#1da1f2"/>
+    <text x="50" y="14" fill="white" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">T</text>
+    
+    <!-- LinkedIn -->
+    <circle cx="70" cy="10" r="8" fill="#0077b5"/>
+    <text x="70" y="14" fill="white" font-family="Arial, sans-serif" font-size="6" text-anchor="middle">in</text>
+    
+    <!-- TikTok -->
+    <circle cx="90" cy="10" r="8" fill="#000000"/>
+    <text x="90" y="14" fill="white" font-family="Arial, sans-serif" font-size="6" text-anchor="middle">TT</text>
+    
+    <!-- YouTube -->
+    <circle cx="110" cy="10" r="8" fill="#ff0000"/>
+    <text x="110" y="14" fill="white" font-family="Arial, sans-serif" font-size="6" text-anchor="middle">YT</text>
+  </g>
+</svg>
